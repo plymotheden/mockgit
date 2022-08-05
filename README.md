@@ -1,0 +1,2 @@
+# mockgit
+A training ground
